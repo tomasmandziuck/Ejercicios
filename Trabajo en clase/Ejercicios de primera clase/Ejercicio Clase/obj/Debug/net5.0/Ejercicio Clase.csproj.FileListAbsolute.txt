@@ -1,0 +1,16 @@
+C:\Users\Tomas Mandziuck\Desktop\Programacion y esas cosas 2\Segundo Cuatri\Ejercicios de primera clase\Ejercicio Clase\bin\Debug\net5.0\Ejercicio Clase.exe
+C:\Users\Tomas Mandziuck\Desktop\Programacion y esas cosas 2\Segundo Cuatri\Ejercicios de primera clase\Ejercicio Clase\bin\Debug\net5.0\Ejercicio Clase.deps.json
+C:\Users\Tomas Mandziuck\Desktop\Programacion y esas cosas 2\Segundo Cuatri\Ejercicios de primera clase\Ejercicio Clase\bin\Debug\net5.0\Ejercicio Clase.runtimeconfig.json
+C:\Users\Tomas Mandziuck\Desktop\Programacion y esas cosas 2\Segundo Cuatri\Ejercicios de primera clase\Ejercicio Clase\bin\Debug\net5.0\Ejercicio Clase.runtimeconfig.dev.json
+C:\Users\Tomas Mandziuck\Desktop\Programacion y esas cosas 2\Segundo Cuatri\Ejercicios de primera clase\Ejercicio Clase\bin\Debug\net5.0\Ejercicio Clase.dll
+C:\Users\Tomas Mandziuck\Desktop\Programacion y esas cosas 2\Segundo Cuatri\Ejercicios de primera clase\Ejercicio Clase\bin\Debug\net5.0\ref\Ejercicio Clase.dll
+C:\Users\Tomas Mandziuck\Desktop\Programacion y esas cosas 2\Segundo Cuatri\Ejercicios de primera clase\Ejercicio Clase\bin\Debug\net5.0\Ejercicio Clase.pdb
+C:\Users\Tomas Mandziuck\Desktop\Programacion y esas cosas 2\Segundo Cuatri\Ejercicios de primera clase\Ejercicio Clase\obj\Debug\net5.0\Ejercicio Clase.csprojAssemblyReference.cache
+C:\Users\Tomas Mandziuck\Desktop\Programacion y esas cosas 2\Segundo Cuatri\Ejercicios de primera clase\Ejercicio Clase\obj\Debug\net5.0\Ejercicio Clase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tomas Mandziuck\Desktop\Programacion y esas cosas 2\Segundo Cuatri\Ejercicios de primera clase\Ejercicio Clase\obj\Debug\net5.0\Ejercicio Clase.AssemblyInfoInputs.cache
+C:\Users\Tomas Mandziuck\Desktop\Programacion y esas cosas 2\Segundo Cuatri\Ejercicios de primera clase\Ejercicio Clase\obj\Debug\net5.0\Ejercicio Clase.AssemblyInfo.cs
+C:\Users\Tomas Mandziuck\Desktop\Programacion y esas cosas 2\Segundo Cuatri\Ejercicios de primera clase\Ejercicio Clase\obj\Debug\net5.0\Ejercicio Clase.csproj.CoreCompileInputs.cache
+C:\Users\Tomas Mandziuck\Desktop\Programacion y esas cosas 2\Segundo Cuatri\Ejercicios de primera clase\Ejercicio Clase\obj\Debug\net5.0\Ejercicio Clase.dll
+C:\Users\Tomas Mandziuck\Desktop\Programacion y esas cosas 2\Segundo Cuatri\Ejercicios de primera clase\Ejercicio Clase\obj\Debug\net5.0\ref\Ejercicio Clase.dll
+C:\Users\Tomas Mandziuck\Desktop\Programacion y esas cosas 2\Segundo Cuatri\Ejercicios de primera clase\Ejercicio Clase\obj\Debug\net5.0\Ejercicio Clase.pdb
+C:\Users\Tomas Mandziuck\Desktop\Programacion y esas cosas 2\Segundo Cuatri\Ejercicios de primera clase\Ejercicio Clase\obj\Debug\net5.0\Ejercicio Clase.genruntimeconfig.cache
