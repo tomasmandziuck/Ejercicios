@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tomas Mandziuck\\Desktop\\Programacion y esas cosas 2\\Segundo Cuatri\\Ejercicio 1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "C:\\Users\\Tomas Mandziuck\\Desktop\\Programacion y esas cosas 2\\Ejercicios\\Tarea\\Ejercicio 1\\ConsoleApp1\\ConsoleApp1.csproj",
       "projectName": "ConsoleApp1",
-      "projectPath": "C:\\Users\\Tomas Mandziuck\\Desktop\\Programacion y esas cosas 2\\Segundo Cuatri\\Ejercicio 1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectPath": "C:\\Users\\Tomas Mandziuck\\Desktop\\Programacion y esas cosas 2\\Ejercicios\\Tarea\\Ejercicio 1\\ConsoleApp1\\ConsoleApp1.csproj",
       "packagesPath": "C:\\Users\\Tomas Mandziuck\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tomas Mandziuck\\Desktop\\Programacion y esas cosas 2\\Segundo Cuatri\\Ejercicio 1\\ConsoleApp1\\obj\\",
+      "outputPath": "C:\\Users\\Tomas Mandziuck\\Desktop\\Programacion y esas cosas 2\\Ejercicios\\Tarea\\Ejercicio 1\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Tomas Mandziuck\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
