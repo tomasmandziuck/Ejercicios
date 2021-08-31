@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {}
+    "net5.0": {
+      "Operaciones/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Operaciones.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Operaciones.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Operaciones/1.0.0": {
+      "type": "project",
+      "path": "../Operaciones/Operaciones.csproj",
+      "msbuildProject": "../Operaciones/Operaciones.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net5.0": []
+    "net5.0": [
+      "Operaciones >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Tomas Mandziuck\\.nuget\\packages\\": {}
@@ -33,7 +52,11 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Tomas Mandziuck\\Desktop\\Programacion y esas cosas 2\\Ejercicios\\Trabajo en clase\\Clase 2 Ejercicio 4\\Operaciones\\Operaciones.csproj": {
+              "projectPath": "C:\\Users\\Tomas Mandziuck\\Desktop\\Programacion y esas cosas 2\\Ejercicios\\Trabajo en clase\\Clase 2 Ejercicio 4\\Operaciones\\Operaciones.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
